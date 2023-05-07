@@ -9,6 +9,7 @@ public class Empregado {
 		setUmPrimeiroNome(firstName);
 		setUmSobrenome(lastName);
 		setUmSalarioMensal(salary);//
+		//
 	}
 
 	public String getUmPrimeiroNome() {
