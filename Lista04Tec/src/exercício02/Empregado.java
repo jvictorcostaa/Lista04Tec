@@ -8,7 +8,7 @@ public class Empregado {
 	public Empregado(String firstName,String lastName,float salary) {
 		setUmPrimeiroNome(firstName);
 		setUmSobrenome(lastName);
-		setUmSalarioMensal(salary);
+		setUmSalarioMensal(salary);//
 	}
 
 	public String getUmPrimeiroNome() {
